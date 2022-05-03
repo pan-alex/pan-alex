@@ -31,16 +31,16 @@ Visit me at [https://alexpan.ca](https://alexpan.ca).
 <table bordercolor="#66b2b2">
     <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Drug Name Generator</h3>
+      <h4 align="center">Drug Name Generator</h3>
         <br />
         <a target="_blank" href="https://jabberwocky.alexpan.ca/">
-            <img src="https://github.com/pan-alex/pan-alex/blob/main/drug-name-generator.png" width="100%" alt="Drug Name Generator"/>
+            <img src="https://github.com/pan-alex/pan-alex/blob/main/drug-name-generator.png"alt="Drug Name Generator"/>
         </a>
         <p><strong>JavaScript & Python</strong> - Web app that creates new drug names using a library of existing drug names.</p>
     </td>
       
    <td width="50%" valign="top">
-      <h3 align="center">Transit Ridership</h3>
+      <h4 align="center">Transit Ridership</h3>
         <br />
         <a target="_blank" href="https://github.com/pan-alex/Transit_Ridership">
             <img src="https://github.com/pan-alex/pan-alex/blob/main/transit-ridership.png" width="100%" alt="Transit Ridership"/>
@@ -50,7 +50,7 @@ Visit me at [https://alexpan.ca](https://alexpan.ca).
   </tr>
   <tr>    
     <td width="50%" valign="top">
-      <h3 align="center">BBBot</h3>
+      <h4 align="center">BBBot</h3>
         <br />
         <a target="_blank" href="https://github.com/pan-alex/slack_bot">
             <img src="https://github.com/pan-alex/slack_bot/raw/master/bbbot%20chat.png" width="100%" alt="Slack bot"/>
@@ -58,7 +58,7 @@ Visit me at [https://alexpan.ca](https://alexpan.ca).
       <p><strong>Python</strong> - A general-purpose Slack chat bot & assistant that accepts commands in formats that more closely resembling natural language.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Pokedex</h3>
+      <h4 align="center">Pokedex</h3>
         <br />
         <a target="_blank" href="https://github.com/pan-alex/pokedex">
             <img src="https://github.com/pan-alex/pokedex/blob/main/hero.png" width="100%" alt="Pokedex"/>
