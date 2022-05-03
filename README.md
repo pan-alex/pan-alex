@@ -55,7 +55,7 @@ Visit me at [https://alexpan.ca](https://alexpan.ca).
         <a target="_blank" href="https://github.com/pan-alex/slack_bot">
             <img src="https://github.com/pan-alex/slack_bot/raw/master/bbbot%20chat.png" width="100%" alt="Slack bot"/>
         </a>
-      <p><strong>Python</strong> - A general-purpose Slack chat bot & assistant that accepts commands in formats that more closely resembling natural language.</p>
+      <p><strong>Python</strong> - A general-purpose Slack chat bot & assistant that aims to accept commands in formats that closely resemble natural language.</p>
     </td>
     <td width="50%" valign="top">
       <h4 align="center">Pokedex</h3>
