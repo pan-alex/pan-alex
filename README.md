@@ -36,7 +36,7 @@ Visit me at [https://alexpan.ca](https://alexpan.ca).
       <a target="_blank" href="https://jabberwocky.alexpan.ca/">
             <img src="https://github.com/pan-alex/pan-alex/blob/main/drug-name-generator.png"alt="Drug Name Generator"/>
       </a>
-        <p><strong>JavaScript & Python</strong> - Web app that creates new drug names using a library of existing drug names.</p>
+        <p><strong>JavaScript/Node.js, Python</strong> - Full-stack web app that creates new drug names using a library of existing drug names.</p>
     </td>
       
    <td width="50%" valign="top">
@@ -63,7 +63,7 @@ Visit me at [https://alexpan.ca](https://alexpan.ca).
         <a target="_blank" href="https://github.com/pan-alex/pokedex">
             <img src="https://github.com/pan-alex/pokedex/blob/main/hero.png" width="100%" alt="Pokedex"/>
         </a>
-        <p><strong>HTML, CSS/SASS, JavaScript</strong> - Web app that pulls data from the PokeAPI to populate a pokdex with a responsive layout.</p>
+        <p><strong>HTML, CSS/SASS, JavaScript</strong> - Front-end web app that pulls data from the PokeAPI to populate a pokdex with a responsive layout.</p>
     </td>
   </tr>
 </table>
