@@ -36,7 +36,7 @@ Visit me at [https://alexpan.ca](https://alexpan.ca).
       <a target="_blank" href="https://jabberwocky.alexpan.ca/">
             <img src="https://github.com/pan-alex/pan-alex/blob/main/drug-name-generator.png"alt="Drug Name Generator"/>
       </a>
-        <p><strong>JavaScript/Node.js, Python</strong> - Full-stack web app that creates new drug names using a library of existing drug names.</p>
+        <p><strong>Python/Flask, JavaScript</strong> - Full-stack web application that uses AI to generate new drug names.</p>
     </td>
       
    <td width="50%" valign="top">
