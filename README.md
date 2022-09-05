@@ -26,6 +26,9 @@ Visit me at [https://alexpan.ca](https://alexpan.ca).
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
+<h3 align="left">Stats</h3>
+<a href='https://github.com/pan-alex/js_codewars'><img src=https://www.codewars.com/users/alexanderpan/badges/large></a>
+
 <h3 align="left">My Projects</h3>
 
 <table bordercolor="#66b2b2">
