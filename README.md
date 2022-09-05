@@ -13,8 +13,11 @@ Visit me at [https://alexpan.ca](https://alexpan.ca).
   <a href="https://linkedin.com/in/alex-pan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn: in/alex-pan" height="30" width="40" /></a>
 <a href="https://twitter.com/panofalex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter: @panofalex" height="30" width="40" /></a>
   <a href="https://codepen.io/alex_pan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Codepen: alex_pan" height="30" width="40" /></a>
-  <a href="https://www.codewars.com/users/alexanderpan" target="blank"><img align="center" src="https://user-images.githubusercontent.com/26422273/166341757-a4a96749-6109-400c-aeb4-cbce3b95d6a0.svg" alt="Codewars: alexanderpan" height="30" width="40"/></a>
+<br>
+<br>
+<a href='https://www.codewars.com/users/alexanderpan'><img align="center" src=https://www.codewars.com/users/alexanderpan/badges/micro alt="Codewars: alexanderpan"></a>
 </p>
+
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
@@ -25,9 +28,6 @@ Visit me at [https://alexpan.ca](https://alexpan.ca).
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
-
-<h3 align="left">Stats</h3>
-<a href='https://github.com/pan-alex/js_codewars'><img src=https://www.codewars.com/users/alexanderpan/badges/large></a>
 
 <h3 align="left">My Projects</h3>
 
