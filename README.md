@@ -50,9 +50,16 @@ Visit me at [https://alexpan.ca](https://alexpan.ca).
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
         </p>
     </td>
+        <td valign="top">
+      <h4 align="center">Fullstack Tools</h4>
+      <p align="center">
+        <a href="https://stackoverflow.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/26422273/188770520-30b9c9c1-8798-4040-ab9b-205781690c0f.svg" alt="stack overflow" width="50" height="40"/></a>
+        <a href="https://google.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/26422273/188769967-58908d96-d368-409e-be95-e35e8c52f217.svg" alt="google" width="40" height="40"/></a>
+        <a href="https://duckduckgo.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/26422273/188770191-38cccb3e-c1c2-475c-b096-310eb009045d.svg" alt="duckduckgo" width="40" height="40"/></a>
+        </p>
+    </td>
   </tr>
 </table>
-
 
 <h3 align="left">My Projects</h3>
 
@@ -73,7 +80,8 @@ Visit me at [https://alexpan.ca](https://alexpan.ca).
         <a target="_blank" href="https://github.com/pan-alex/Transit_Ridership">
             <img src="https://github.com/pan-alex/pan-alex/blob/main/transit-ridership.png" width="100%" alt="Transit Ridership"/>
         </a>
-        <p><strong>R (ggplot2, tidyverse, RMarkdown)</strong> -  Data analysis project where transit ridership patterns are visualized and modeled for 3 North American cities.</p>
+        <p><strong>R (ggplot2, tidyverse, RMarkdown)</strong> -  Dat!
+a analysis project where transit ridership patterns are visualized and modeled for 3 North American cities.</p>
     </td>
   </tr>
   <tr>    
