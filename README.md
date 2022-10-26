@@ -70,9 +70,9 @@ Visit me at [https://alexpan.ca](https://alexpan.ca).
       <h4 align="center">Drug Name Generator</h4>
         <br />
       <a target="_blank" href="https://jabberwocky.alexpan.ca/">
-            <img src="https://github.com/pan-alex/pan-alex/blob/main/drug-name-generator.png"alt="Drug Name Generator"/>
+            <img src="https://github.com/pan-alex/personal-website/blob/main/images/drug-name-generator.png"alt="Drug Name Generator"/>
       </a>
-        <p><strong>Python/Flask, JavaScript</strong> - Full-stack web application that uses AI to generate new drug names.</p>
+        <p><strong>Python/Flask, JavaScript</strong> - Full-stack web application that uses AI to generate new drug names based on existing drug names.</p>
     </td>
       
    <td width="50%" valign="top">
