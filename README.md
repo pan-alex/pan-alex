@@ -81,8 +81,7 @@ Visit me at [https://alexpan.ca](https://alexpan.ca).
         <a target="_blank" href="https://github.com/pan-alex/Transit_Ridership">
             <img src="https://github.com/pan-alex/pan-alex/blob/main/transit-ridership.png" width="100%" alt="Transit Ridership"/>
         </a>
-        <p><strong>R (ggplot2, tidyverse, RMarkdown)</strong> -  Dat!
-a analysis project where transit ridership patterns are visualized and modeled for 3 North American cities.</p>
+        <p><strong>R (ggplot2, tidyverse, RMarkdown)</strong> -  Data analysis project where transit ridership patterns are visualized and modeled for 3 North American cities.</p>
     </td>
   </tr>
   <tr>    
