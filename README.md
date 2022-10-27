@@ -67,7 +67,7 @@ Visit me at [https://alexpan.ca](https://alexpan.ca).
 <table bordercolor="#66b2b2">
     <tr>
     <td width="50%" valign="top">
-      <h4 align="center">Drug Name Generator</h4>
+      <h4 align="center">Prescription Drug Name Generator</h4>
         <br />
       <a target="_blank" href="https://jabberwocky.alexpan.ca/">
             <img src="https://github.com/pan-alex/personal-website/blob/main/images/drug-name-generator.png"alt="Drug Name Generator"/>
