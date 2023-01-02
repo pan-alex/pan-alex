@@ -70,7 +70,7 @@ Visit me at [https://alexpan.ca](https://alexpan.ca).
       <h4 align="center">Prescription Drug Name Generator</h4>
         <br />
       <a target="_blank" href="https://jabberwocky.alexpan.ca/">
-            <img src="https://github.com/pan-alex/personal-website/blob/main/images/drug-name-generator.png"alt="Drug Name Generator"/>
+            <img src="https://user-images.githubusercontent.com/26422273/210260440-28c7a067-cff7-4653-b8b5-8e21ea4caf2b.png" alt="Drug Name Generator"/>
       </a>
         <p><strong>Python/Flask, JavaScript</strong> - Full-stack web application that uses AI to generate new drug names based on existing drug names.</p>
     </td>
@@ -103,3 +103,4 @@ Visit me at [https://alexpan.ca](https://alexpan.ca).
     </td>
   </tr>
 </table>
+
