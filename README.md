@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Alex Pan</h1>
-<p>I'm a software developer with a passion for healthcare and drug development. In my day job, I am a Regulatory Affairs professional in the in the pharmaceutical industry. In my free time, I create websites and build software applications. My interests include statistical learning/AI, task automation, and four-legged sociopaths (sometimes called cats). I’m always looking for ways to combine my interests into practical or fun applications.</p>
+<p>I'm a software developer with a passion for healthcare and drug development. In my day job, I am a Regulatory Affairs professional in the in the pharmaceutical industry. In my free time, I build websites and web applications. I collaborate closely with my cat, Lorem, who provides crucial input during his occasional strolls across my keyboard. My interests include drug development, statistical learning, and AI. I'm always looking for ways to combine my interests into practical or fun applications.</p>
 
 Visit me at [https://alexpan.ca](https://alexpan.ca).
 
